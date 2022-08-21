@@ -16,7 +16,7 @@ img {
 }
 
 .header {
-    background-color: #6a5acd;
+    background-color: #5a99cd;
     z-index: 9;
     position: fixed;
     top: 0;
@@ -96,7 +96,7 @@ img {
     margin-bottom: 15px;
     height: 50px;
     width: 150px;
-    background-color: #6a5acd;
+    background-color: #144d98;
     color: white;
     border-radius: 25px;
     font-size: 20px;
@@ -111,10 +111,9 @@ img {
 }
 
 .load-more:hover {
-    background-color: #5947c7;
+    background-color: #144d98;
 }
 
-/* кастомный поисковик */
 form {
     position: relative;
     width: 300px;
@@ -130,7 +129,7 @@ input {
     border-radius: 5px;
     outline: none;
     background: white;
-    color: #9e9c9c;
+    color: #5a99cd;
 }
 
 .submit {
@@ -148,6 +147,6 @@ input {
         content: '\f002';
         font-family: FontAwesome;
         font-size: 16px;
-        color: #5947c7;
+        color: #144d98;
     }
 }
